@@ -20,7 +20,7 @@ public class JwtService {
     private SecretKey secret;
 
     public JwtService(
-            @Value("${com.dora.jwt.secret}")
+            @Value("${edu.ifmo.tikunov.jwt.secret}")
             String secret
     ) {
 

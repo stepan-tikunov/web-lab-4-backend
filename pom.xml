@@ -8,12 +8,12 @@
         <version>3.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.dora</groupId>
-    <artifactId>weblab4</artifactId>
+    <groupId>edu.ifmo.tikunov.web</groupId>
+    <artifactId>lab4</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>weblab4</name>
-    <description>weblab4</description>
+    <name>lab4</name>
+    <description>lab4</description>
     <properties>
         <java.version>17</java.version>
     </properties>
